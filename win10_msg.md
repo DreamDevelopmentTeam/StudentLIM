@@ -3,7 +3,7 @@
 修改注册表：
 
 ```text
-HKEY_LOCALMACHINE->System->CurrentControlSet->Control->terminalserver
+HKEY_LOCALMACHINE->System->CurrentControlSet->Control->TerminalServer
 
 AllowRemoteRPC == 0 -> 1
 ```
