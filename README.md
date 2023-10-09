@@ -2,7 +2,7 @@
 
 StudentLIM是一个帮助学生在计算机机房进行网络通讯和传输文件的工具集。
 
-**LIM通信协议规范及客户端实现已从本仓库分离！请查看[LIM 文档中心](https://lim.pages.devtm.top/)**
+**LIM通信协议规范及客户端实现已从本仓库分离！请查看[LIM 文档中心](https://lim.pages.devtm.top/)！**
 
 ---
 
